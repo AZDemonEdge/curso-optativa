@@ -14,7 +14,7 @@ Claudia Vazquez Ivonnet,
 René Salvó Reyna,
 Miguel Alejandro Baez Perez,
 Ernesto Correa Izquierdo.
-Jonhatan Simon
+Jonhatan Simon,
 Carlos Yasel Conill Piñero
 
 ## About Laravel
